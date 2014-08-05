@@ -1,5 +1,5 @@
 
-### About
+## About
 
 This is the license that I use for all my projects.
 It's quite similar to the [WTFPL][], but there are some important changes.
