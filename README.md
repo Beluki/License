@@ -12,14 +12,15 @@ Here is the summary:
 
 * Offers no warranty.
 
-  If you can do anything with my work, only you should be liable
-  for it.
+  If you can do anything with my work, only you should be liable for it.
 
 * It's more explicit.
 
   It specifies that the license terms apply to both the license itself
   and any files distributed with it. Like the WTFPL, it avoids the
   word "software", so it can be used for artwork, documentation, etc...
+  Since "whatever they want" may be ambiguous, it's explicit about
+  covering at least copying, modification and redistribution.
 
 * Zero restrictions.
 
