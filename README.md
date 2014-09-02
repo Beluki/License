@@ -30,7 +30,8 @@ Here is the summary:
   generic "LICENSE" name at the top.
 
 The full text is available in the [Documentation][] folder. To use it,
-copy the License file and include it in your project.
+copy the License file and include it in your project. The License is
+of course licensed under itself.
 
 [Documentation]: https://github.com/Beluki/License/tree/master/Documentation
 [WTFPL]: http://www.wtfpl.net
